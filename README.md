@@ -2,6 +2,7 @@
 I create Minecraft mods @ [Chromatic](https://github.com/chromaticforge).
 
 ## Developer Stats
+![Github User's followers](https://img.shields.io/github/followers/awruff?style=for-the-badge) 
 ![GitHub User's stars](https://img.shields.io/github/stars/awruff?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=GITHUB%20STARS&color=%23ffcc4d)
 
 ![Modrinth downloads](https://img.shields.io/badge/MODRINTH_DOWNLOADS-57k%2B-1bd96a?style=for-the-badge)
